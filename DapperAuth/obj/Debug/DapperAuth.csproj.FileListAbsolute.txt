@@ -1,0 +1,2 @@
+H:\repos\DapperAuth\DapperAuth\obj\Debug\DapperAuth.csproj.AssemblyReference.cache
+H:\repos\DapperAuth\DapperAuth\obj\Debug\DapperAuth.csproj.CoreCompileInputs.cache
