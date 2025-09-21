@@ -3,3 +3,8 @@
 ################################################################################
 
 /DapperAuth/.vs/DapperAuth
+/DapperAuth/DapperIdentity.Core/bin
+/DapperAuth/DapperIdentity.Core/obj
+/DapperAuth/DapperIdentity.Data/bin
+/DapperAuth/DapperIdentity.Data/obj
+/DapperAuth/DapperIdentity.Web/bin
